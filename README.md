@@ -8,7 +8,7 @@
 # 目录
 - [我想要拥有/拥有了一台 Pixel 4,我应该做些什么?](#whatshouldido)
 - [关于Pixel4你可能想知道的](#know)
-- -[查询我的 Pixel 4 是什么版本(查询IMEI)](#imei)
+- - [查询我的 Pixel 4 是什么版本(查询IMEI)](#imei)
 	
 
 
