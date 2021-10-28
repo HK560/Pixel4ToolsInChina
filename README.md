@@ -10,8 +10,7 @@
 #### 如果你还没有拥有Pixel4
 * 如果你还没有拥有Pixel4,但想要了解这台手机或者准备购入,可以阅读下面的栏目[【关于Pixel4你可能想知道的】](##关于Pixel4你可能想知道的)来了解Pixel4的基本信息。
 #### 如果你已经拥有了Pixel4
-* 如果你不知道你的手机是什么版本,你可以阅读
-<a herf="#IMIE">【我的 Pixel 4 是什么版本】</a>
+* 如果你不知道你的手机是什么版本,你可以阅读[【我的 Pixel 4 是什么版本】](#IMIE)
 * 
 
 ## 关于Pixel4你想知道的
@@ -24,7 +23,7 @@
 * [Pixel4 配置数据信息_ZOL](https://detail.zol.com.cn/cell_phone/index1274867.shtml) 
 * [[2021]《Pixel捡垃圾指南 (二) : Pixel 4 的故事》](https://www.bilibili.com/video/BV1Bq4y1o7mq)(了解Pixel4的特性和Pixel4独有的MotionSense雷达等)
 
-### <a id="IMIE">查询我的 Pixel 4 是什么版本(查询IMEI)</a>
+### <span id="IMIE">查询我的 Pixel 4 是什么版本(查询IMEI)</span>
 * [查询GooglePixel保修信息以及判断是否为Verizon运营商版](https://ericclose.github.io/Pixel-repairs-and-carriers.html)
 * [【第三方平台查询IMEI】GOOGLE IMEI Check](https://www.imei.info/zh/phonedatabase/phones-google/)
 
