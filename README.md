@@ -5,6 +5,10 @@
 - **++大部分资源和教程来源于网络共享,本仓库仅作为指路导航++**
 - ++**仓库仍在逐步完善中**++
 
+
+-----
+
+
 # 目录
 - [我想要拥有/拥有了一台 Pixel 4,我应该做些什么?](#whatshouldido)
 - [关于Pixel4你可能想知道的](#know)
@@ -22,6 +26,10 @@
 
 
 
+-----
+
+
+
 
 ## <span id="whatshouldido">【序】我想要拥有/拥有了一台 Pixel 4,我应该做些什么?</span>
 #### 如果你还没有拥有Pixel4
@@ -31,6 +39,10 @@
 * 如果你已经知道**你的手机是O版**(即能解BL锁)那么恭喜你,你可以继续阅读本文内容来获得Pixel4的完整体验。
 * 如果**你的手机是M版**(即无法解锁BL锁的运营商版本)那么很可惜,本文后半部分的介绍的内容无法用在你的手机上,但Pixel4的原生系统应该还是能给你带来不错的体验。
 
+
+
+
+-----
 
 
 ## <span id="know">关于Pixel4你可能想知道的</span>
@@ -47,6 +59,10 @@
 * [查询GooglePixel保修信息以及判断是否为Verizon运营商版](https://ericclose.github.io/Pixel-repairs-and-carriers.html)
 * [【第三方平台查询IMEI】GOOGLE IMEI Check](https://www.imei.info/zh/phonedatabase/phones-google/)
 
+
+-----
+
+
 ## <span id="iamready">我是非运营商版本的O版(即能解锁BL)Pixel4,我想要获得更好的体验</span>
 
 * 为了获得Pixel4最好的体验,大家玩机选择的路线一般是:
@@ -58,6 +74,10 @@
 3.	**使用代理(梯子)登入谷歌账号,享受原生系统**
 
 
+
+-----
+
+
 ## <span id="tutorials">教程搜集</span>
 ### <span id="unlockbl">一 解锁Bootloader(BL锁)</span>
 > BL锁就是锁住手机的Recovery和Fastboot,防止刷入非官方签名的系统而损坏手机的一个保护机制(同时也为用户资料提供了一定的保护)。——[【科普向】Android手机的BL锁到底是什么东东](https://www.bilibili.com/read/cv307758)
@@ -67,6 +87,10 @@
 一些教程链接:
 * [小胡子的干货铺——Pixel 4 XL解锁Bootloader](https://sspai.com/post/57922)
 * [Google Pixel&Nexus 官方工厂镜像下载](https://developers.google.com/android/images#instructions)的线刷步骤中有指导如何解锁BL
+
+
+
+-----
 
 
 ### <span id="whatmagisk">二 通过Magisk 解锁使用root,Motion Sense ,电信网络</span>
