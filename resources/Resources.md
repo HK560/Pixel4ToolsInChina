@@ -1,6 +1,15 @@
 ## 资源收集
 收集一些适用于Pixel4的apk 面具模块等资源
 
+### <span id="adbUSB">驱动相关(ADB USB驱动)</span>
+- [Android SDK Platform Tools(ADB工具)](https://developer.android.com/studio/releases/platform-tools)
+
+	本仓库下载链接:[platform-tools_r31.0.3-windows.zip](platform-tools_r31.0.3-windows.zip)
+    
+- [Google USB 驱动程序 ](https://developer.android.com/studio/run/win-usb)
+
+	本仓库下载链接:[usb_driver_r13-windows.zip](usb_driver_r13-windows.zip)
+
 ### <span id="MagiskModules">Magisk相关 (安装包 雷达电信模块)</span>
 - [Magisk Manager 官方下载](https://magiskmanager.com/)
 
