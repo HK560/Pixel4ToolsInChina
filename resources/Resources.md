@@ -5,8 +5,9 @@
 - [Magisk Manager 官方下载](https://magiskmanager.com/)
 
 - 解锁Pixel4雷达(MotionSense)和电信VoLTE模块:
-【推荐】解锁雷达和电信VoLTE: [Pixel4soliVoLTEBySun_Dream.zip](Magisk/Pixel4soliVoLTEBySun_Dream.zip) 
- 刷入这个直接雷达和电信VoLTE都能用了,安卓12也能用
+
+	【推荐】解锁雷达和电信VoLTE: [Pixel4soliVoLTEBySun_Dream.zip](Magisk/Pixel4soliVoLTEBySun_Dream.zip)
+	刷入这个直接雷达和电信VoLTE都能用了,安卓12也能用
  
  	其他的(未测试是否有效):
    解锁电信VoLTE:[Pixel4_VOLTE_仅电信.zip](Magisk/Pixel4_VOLTE_仅电信.zip) 
