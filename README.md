@@ -18,11 +18,11 @@
 -----
 
 
-- [教程搜集(解锁BL,刷入Magisk,MotionSense模块电信模块)](#tutorials)
+- [教程搜集(解锁BL,刷入Magisk,MotionSense模块电信模块)](Tutorials.md#tutorials)
 
-- - [解锁Bootloader(BL锁](#unlockbl)
-- - [通过Magisk 解锁使用root,Motion Sense ,电信网络](#whatmagisk)
-- - - [安装Magisk](#installmagisk)
+- - [解锁Bootloader(BL锁](Tutorials.md#unlockbl)
+- - [通过Magisk 解锁使用root,Motion Sense ,电信网络](Tutorials.md#whatmagisk)
+- - - [安装Magisk](Tutorials.md#installmagisk)
 
 
 
