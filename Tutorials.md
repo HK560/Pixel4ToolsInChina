@@ -51,6 +51,34 @@ Magisk安装本地模块教程:
 
 ------
 ### <span id="factoryImages">使用工厂镜像线刷系统(重装系统,救砖)</span>
+#### 1.下载ADB工具
+可以点击[【这里】](resources/Resources.md#adbUSB)获取ADB工具
+#### 2.下载原生系统工厂镜像
+原生系统工厂镜像可以在谷歌安卓开发者网站[这里下载](https://developers.google.com/android/images#flame)
+滚动网页,找到
+```
+"flame" for Pixel 4
+```
+该部分下面列表会列出适用于Pixel 4的各个系统版本的工厂镜像信息和下载链接,列表最底部为最新的系统版本镜像信息。【!!!注意是Pixel4 不是Piexl4 XL!!!Pixel4 XL不适用!!!】
+找到想要的系统版本镜像,点击对应的下载链接Link即可下载该系统镜像
+#### 3.将ADB工具和下载好的镜像解压在同一个文件夹
+都解压在同一个文件夹后,该文件夹文件分布类似于下图
+
+![](https://cdn.jsdelivr.net/gh/HK560/MyPicHub@master/res/pic/20211102183823.png)
+#### 4.打开手机的USB调试模式,连接电脑
+打开手机的设置->关于手机->版本号,点击5次即可打开开发者模式
+在设置->系统->开发者选项,找到“USB 调试”打开该选项
+连接电脑,手机提示是否允许该电脑进行调试,点击确认允许
+
+#### 5.打开命令提示符(CMD),运行ADB
+打开CMD,cd到第二步骤的文件夹
+或者直接在第二步骤的文件夹路径栏中输入cmd 打开命令提示符(CMD)
+
+![](https://cdn.jsdelivr.net/gh/HK560/MyPicHub@master/res/pic/20211102185653.png)
+
+
+
+
 待更新完善....
 
 -------	
